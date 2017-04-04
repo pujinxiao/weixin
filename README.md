@@ -2,11 +2,12 @@
 ## 一、说明 ##
 **目标网址：**[http://weixin.sogou.com/weixin?type=2&query=python&ie=utf8](http://weixin.sogou.com/weixin?type=2&query=python&ie=utf8)
 
-**实现：**关于python文章的抓取，抓取标题、标题链接、描述。如下图所示。
+**实现**：关于python文章的抓取，抓取标题、标题链接、描述。如下图所示。
 
-**数据：**数据我就没有保存，此实战主要是为了学习IP和用户代理池的设定，推荐一个开源项目关于搜狗微信公众号：[基于搜狗微信的公众号文章爬虫](https://github.com/pujinxiao/wechat_sogou_crawl)
+**数据**：数据我就没有保存，此实战主要是为了学习IP和用户代理池的设定，推荐一个开源项目关于搜狗微信公众号：[基于搜狗微信的公众号文章爬虫](https://github.com/pujinxiao/wechat_sogou_crawl)
 
 图1
+
 ![](http://images2015.cnblogs.com/blog/1129740/201704/1129740-20170404160803769-1659644711.png)
 
 ## 二、运行 ##
